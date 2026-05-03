@@ -1,7 +1,7 @@
 # 🚀 Netlify Relay (Edge Function)
 
 > ⚡ A lightweight relay/proxy built with **Netlify Edge Functions**
-> Created by **amirs**
+
 
 ---
 
@@ -16,7 +16,7 @@ https://your-site.netlify.app
 ## ✨ Features
 
 * ⚡ Ultra-fast Edge execution
-* 🔁 Full request relay (proxy)
+* blablabla
 * 🌍 Global CDN via Netlify
 * 🔒 Environment-based configuration
 * 🧩 Minimal and clean structure
@@ -93,40 +93,15 @@ All requests will be forwarded to your target domain.
 
 ---
 
-## 💰 Support (Solana)
 
-If this project helped you, you can support it:
 
-```
-E7S8EBUE5tkY5UaTgDvhaanJMeCi2DxPGYZukJGrJV8J
-```
-
----
-
-## 📢 Telegram Channel
-
-https://t.me/avaco_cloud
-
----
-
-## 💬 Contact
-
-Telegram: @ShakerFPS
-
----
-
-## ⚠️ Notes
 
 * Use only with domains you own or have permission for
-* Misuse may violate service policies
+
 
 ---
 
-## 👤 Author
 
-**amirs**
-
----
 
 ## 📜 License
 
