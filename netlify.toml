@@ -5,3 +5,6 @@
 [[edge_functions]]
   function = "relay"
   path = "/*"
+  [functions]
+  # Extends execution time for better streaming stability
+  timeout = 26
